@@ -1,0 +1,4 @@
+framework module Liftoff {
+  header "Liftoff-Swift.h"
+  requires objc
+}

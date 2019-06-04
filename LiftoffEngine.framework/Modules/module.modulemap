@@ -1,0 +1,4 @@
+framework module LiftoffEngine {
+  header "LiftoffEngine-Swift.h"
+  requires objc
+}
